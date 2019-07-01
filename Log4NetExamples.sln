@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetExamples", "Log4NetExamples\Log4NetExamples.csproj", "{4D0D2D3C-D641-47C3-85E6-524E956141E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4NetExampleWithXmlConfiguration", "Log4NetExampleWithXmlConfiguration\Log4NetExampleWithXmlConfiguration.csproj", "{0185EBAC-73F8-4685-A558-4894B21DEFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookAddIn1", "OutlookAddIn1\OutlookAddIn1.csproj", "{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FD90C547-3CF4-450D-9BC3-A3C3B203D952}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Debug|x86.ActiveCfg = Debug|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Debug|x86.Build.0 = Debug|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Release|Any CPU.ActiveCfg = Release|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Release|x86.ActiveCfg = Release|x86
+		{4D0D2D3C-D641-47C3-85E6-524E956141E9}.Release|x86.Build.0 = Release|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Debug|x86.ActiveCfg = Debug|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Debug|x86.Build.0 = Debug|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Release|Any CPU.ActiveCfg = Release|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Release|x86.ActiveCfg = Release|x86
+		{0185EBAC-73F8-4685-A558-4894B21DEFB7}.Release|x86.Build.0 = Release|x86
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Debug|x86.Build.0 = Debug|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Release|x86.ActiveCfg = Release|Any CPU
+		{CD3DFADB-1DA4-4B7E-84CB-32FB8110438C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD05290-274D-4919-B7B8-A5F7C23B7902}
+	EndGlobalSection
+EndGlobal

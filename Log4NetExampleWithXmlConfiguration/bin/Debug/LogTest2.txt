@@ -1,0 +1,4 @@
+[Header]\r\n2011-08-30 21:37:08,468 [10] WARN  Log4NetExampleWithXmlConfiguration.Program - sadi the great
+[Header]\r\n2011-08-30 21:44:14,859 [10] WARN  Log4NetExampleWithXmlConfiguration.Program - sadi the great
+[Header]\r\n2015-08-09 09:25:00,974 [8] WARN  Log4NetExampleWithXmlConfiguration.Program - sadi the great
+[Footer]\r\n

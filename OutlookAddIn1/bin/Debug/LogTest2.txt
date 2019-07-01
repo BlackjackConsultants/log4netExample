@@ -1,0 +1,1 @@
+[Header]\r\n[Footer]\r\n[Header]\r\n2019-07-01 16:17:05,884 [VSTA_Main] WARN  OutlookAddIn1.ThisAddIn - sadi the great

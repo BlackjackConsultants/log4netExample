@@ -1,0 +1,17 @@
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\bin\Debug\Log4NetExamples.exe.config
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\bin\Debug\Log4NetExamples.exe
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\bin\Debug\Log4NetExamples.pdb
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\bin\Debug\log4net.dll
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\bin\Debug\log4net.xml
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.exe
+C:\JORGE\JORGEPRG\C_Sharp2010\Examples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.pdb
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\bin\Debug\Log4NetExamples.exe.config
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\bin\Debug\Log4NetExamples.exe
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\bin\Debug\Log4NetExamples.pdb
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\bin\Debug\log4net.xml
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.csprojAssemblyReference.cache
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.csproj.CoreCompileInputs.cache
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.csproj.CopyComplete
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.exe
+C:\Users\jorge\OneDrive\jorgeprg\csharp\examples\Log4NetExamples\Log4NetExamples\Log4NetExamples\obj\x86\Debug\Log4NetExamples.pdb
